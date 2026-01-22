@@ -1,6 +1,6 @@
-📊 Mini-Projeto 2 – Dashboard Comercial: Performance de Vendas
+📊 **Mini-Projeto 2 – Dashboard Comercial: Performance de Vendas**
 
-📌 Introdução
+📌 *Introdução*
 Este projeto foi desenvolvido durante o capítulo 5 do curso "Microsoft Power BI para Business Intelligence e Data Science" da Data Science Academy.  
 O objetivo é aplicar conceitos de análise de dados comerciais utilizando Power BI, explorando diferentes recursos visuais e narrativos para compreender a performance de vendas de uma empresa fictícia.
 
@@ -8,7 +8,8 @@ Os dados utilizados são fictícios e fornecidos pela Data Science Academy.
   
 O projeto simula um cenário de negócio real, permitindo a prática de análises, correção de dados, cálculo de métricas e extração de insights para apoiar decisões estratégicas na área comercial.
 
-🎯 Objetivos
+🎯 *Objetivos*
+
 - Criar dashboards interativos para análise comercial.  
 - Explorar recursos do Power BI como:
   - Narrativa Inteligente  
@@ -16,12 +17,14 @@ O projeto simula um cenário de negócio real, permitindo a prática de análise
   - Gráfico de Faixas  
   - Criação de menu para índice do Dashboard  
 
-🛠️ Tecnologias Utilizadas
+🛠️ *Tecnologias Utilizadas*
+
 - Power BI Desktop
 - Recursos de visualização e storytelling de dados 
 - Power Query para transformação e limpeza dos dados   
 
-📂 Estrutura do Dashboard
+📂 *Estrutura do Dashboard*
+
 O projeto contém quatro principais relatórios:
 
 1. Narrativa Inteligente 
@@ -36,7 +39,7 @@ Cada relatório busca compreender variáveis relevantes, criar gráficos e medid
 - As categorias que mais vendem em um determinado ponto de venda
 - A performance dos vendedores
 
-🔎 Principais Insights
+🔎 *Principais Insights*
 
 1. Vendas por Fabricante
 - Brastemp lidera com R$ 92.786,30, representando 25,82% do total.  
@@ -59,12 +62,12 @@ Cada relatório busca compreender variáveis relevantes, criar gráficos e medid
 5. Performance Regional
 - O dashboard mostra a distribuição de vendas acima de R$ 30.000,00 por estado e vendedor, permitindo identificar regiões mais fortes e vendedores com melhor desempenho.  
 
+🚀 *Conclusão*
 
-🚀 Conclusão
 Este mini-projeto foi uma introdução prática ao uso do Power BI para análises comerciais.  
 Mesmo com dados fictícios, foi possível compreender como diferentes dimensões (fabricante, segmento, categoria e região) influenciam a performance de vendas.  
 
-📊 Exemplos de Visualizações
+📊 *Exemplos de Visualizações*
 
 ![Índice](Imagens/Índice.png)
 ![Narrativa Inteligente](Imagens/Vendas.png)
@@ -72,8 +75,9 @@ Mesmo com dados fictícios, foi possível compreender como diferentes dimensões
 ![Faixas de Vendas por Categorias e Pontos de Vendas](Imagens/Segmentação.png)
 ![Performance dos Vendedores Por Região](Imagens/Mapa.png)
 
-📌 Como visualizar
+📌 *Como visualizar*
 
 1. Baixe o arquivo `.pbix` disponível neste repositório  
-2. Abra no **Power BI Desktop** para explorar os relatórios  
+2. Abra no Power BI Desktop para explorar os relatórios  
 3. Utilize os índice selecionando a tecla ctrl + clique para navegar pelas diferentes páginas
+
