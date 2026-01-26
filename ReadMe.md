@@ -1,6 +1,7 @@
 📊 **Mini-Projeto 2 – Dashboard Comercial: Performance de Vendas**
 
 📌 *Introdução*
+
 Este projeto foi desenvolvido durante o capítulo 5 do curso "Microsoft Power BI para Business Intelligence e Data Science" da Data Science Academy.  
 O objetivo é aplicar conceitos de análise de dados comerciais utilizando Power BI, explorando diferentes recursos visuais e narrativos para compreender a performance de vendas de uma empresa fictícia.
 
@@ -80,4 +81,5 @@ Mesmo com dados fictícios, foi possível compreender como diferentes dimensões
 1. Baixe o arquivo `.pbix` disponível neste repositório  
 2. Abra no Power BI Desktop para explorar os relatórios  
 3. Utilize os índice selecionando a tecla ctrl + clique para navegar pelas diferentes páginas
+
 
